@@ -18,6 +18,8 @@ The campaign based on the theater outcomes by launch date is successful through 
 
 ![This chart shows Theater outcomes versus launch dates](https://github.com/jimmycastillo23/Challenge1/blob/main/Theater_Outcomes_vs_Launch.png)
 
+![This table shows Theater outcomes versus launch dates](https://github.com/jimmycastillo23/Challenge1/blob/main/Table_Outcomes_vs_Goals..png)
+
 ![This chart shows outcomes versus goals](https://github.com/jimmycastillo23/Challenge1/blob/main/Outcomes_vs_Goals.png) 
 
 
