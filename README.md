@@ -54,6 +54,8 @@ The conclusion based on the outcomes on goals ranges is limited to three  variab
  
 In the report there is a simple table, a pivot table, and two charts Line with Marker charts and Line Chart style 1. Other tables that can be created in the reports include a pivot table with filters for the outcome based on goals and ranges. Another simple chart that can be created in the reports is the Clustered Column chart which can be easily used to compare data. This clustered column chart gives the ability to filter based on ranges and also compare only two variables and one range, two ranges and more. This clustered column chart is very dynamic and interactive.    
 
+![Suggested chart to easy filter and compare data](https://github.com/jimmycastillo23/Challenge1/blob/main/Suggested%20charts%20with%20Filters.png)
+
  
 
  
