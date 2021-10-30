@@ -67,6 +67,12 @@ In the report there is a simple table, a pivot table, and two charts Line with M
 
 ![Suggested chart to easy filter and compare data](https://github.com/jimmycastillo23/Challenge1/blob/main/Suggested%20charts%20with%20Filters.png)
 
+---
+
+![Suggested chart with displayed filters](https://github.com/jimmycastillo23/Challenge1/blob/main/Suggested%20charts%20with%20Displayed%20Filters.png)
+
+
+
  
 
  
