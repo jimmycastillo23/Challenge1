@@ -12,13 +12,17 @@ The intent of this analysis report is to explain Louise how different campaigns 
 
 ## Analysis and Challenges
 
-The campaign based on the theater outcomes by launch date is successful through the entire year, very especially in the months May, June and July. The campaign based on goals ranges amount, successful, failed, canceled, and plays shows that the best performance of successful happens under the ranges less than 1000, 1000 to 4999, 5000 to 9999, 10000 to 14999, and 15000 to 19999. The rest of the range from 20000 to greater than 50000 shows a higher number of fails while making all zeros to cancel. One of the challenges includes adding more criteria or variables to the analysis’ report. For instance, adding the subcategory “plays” reduces the number of successful to 141, and by taking it off of the dataset increases the number of successful to 322. This effect causes changes in all three measure outcomes successful, failed and canceled. Another challenge is the range of amounts that are given in the dataset. For example, if the first range would be less than 5000, this increases the number of successes. In conclusion, by modifying the range amounts, and by adding or taking out more measurement outcome criteria affect considerably the final report. Below are the charts that I used for this analysis. 
+The campaign based on the theater outcomes by launch date is successful through the entire year, very especially in the months May, June and July. See below pivot table and chart. 
+
+----
 
 ![This table shows Theater outcomes versus launch dates](https://github.com/jimmycastillo23/Challenge1/blob/main/Table_Theater_Outcomes_vs_Launch.png)
 
 ---
 
 ![This chart shows Theater outcomes versus launch dates](https://github.com/jimmycastillo23/Challenge1/blob/main/Theater_Outcomes_vs_Launch.png)
+
+The campaign based on goals ranges amount, successful, failed, canceled, and plays shows that the best performance of successful happens under the ranges less than 1000, 1000 to 4999, 5000 to 9999, 10000 to 14999, and 15000 to 19999. The rest of the range from 20000 to greater than 50000 shows a higher number of fails while making all zeros to cancel. One of the challenges includes adding more criteria or variables to the analysis’ report. For instance, adding the subcategory “plays” reduces the number of successful to 141, and by taking it off of the dataset increases the number of successful to 322. This effect causes changes in all three measure outcomes successful, failed and canceled. Another challenge is the range of amounts that are given in the dataset. For example, if the first range would be less than 5000, this increases the number of successes. In conclusion, by modifying the range amounts, and by adding or taking out more measurement outcome criteria affect considerably the final report. Below are the charts that I used for this analysis. Below table and chart. 
 
 ---
 
